@@ -1,0 +1,15 @@
+# Archivos de compilacion de ROS 2 (NO subir)
+build/
+install/
+log/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.swp
+*.bak
+*.bak2
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
